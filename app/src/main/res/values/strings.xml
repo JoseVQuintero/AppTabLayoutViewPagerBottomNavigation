@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppTabLayoutViewPagerBottomNavigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_home_one">One</string>
+    <string name="nav_home_two">Two</string>
+    <string name="nav_home_three">Three</string>
+    <string name="nav_news_one">One</string>
+    <string name="nav_news_two">Two</string>
+    <string name="nav_news_three">Three</string>
+    <string name="nav_settings_one">One</string>
+    <string name="nav_settings_two">Two</string>
+    <string name="nav_settings_three">Three</string>
+    <string name="error_title">error</string>
+    error_title
+</resources>
